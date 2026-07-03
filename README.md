@@ -5,7 +5,7 @@ The source code in this repository is available under the MIT License. Please no
 To respect intellectual property rights, this repository does not host, distribute, or utilize any official textures, audio, or proprietary data
 developed by Mojang Studios© or Microsoft©.
 
-## 🛠️ Features && Evaluation
+## 🛠️ Features & Evaluation
 * **WebGL Rendering:** Leverages Three.js for accelerated GPU rendering.
 * **Optimized Voxel Architecture:** Provides single-mesh chunk buffering and hidden face culling to ensure high-performance on browser environments.
 * **Codebase:** Structurally optimized as a learning template for developers interested in procedural generation and voxel engine mechanics.
