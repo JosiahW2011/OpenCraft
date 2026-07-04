@@ -25,4 +25,5 @@ Note: The listed controls below go by the most recent version of the game/templa
 * **Left/Right Shift keys:** Fly downwards
 * **1, 2, 3 and 4:** Block placement selection
 
+Have fun, and enjoy!
 <img width="1366" height="593" alt="Screenshot_2026-07-04_01-12-31" src="https://github.com/user-attachments/assets/542a08a8-6a87-41ec-8ad3-c89c6d91faa5" />
