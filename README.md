@@ -12,7 +12,7 @@ developed by Mojang Studios© or Microsoft©.
 
 ## 🤝 Credits and Acknowledgements
 * **ThreeJS Core, Module, and Plugins:** mr.doob (Ricardo Cabello) and Three.js contributors.
-* **Functionality, Gameplay Mechanics, and Textures:** Markus Persson (Also Mojang Studios©).
+* **Functionality, Gameplay Mechanics, and Older Textures:** Markus Persson (Also Mojang Studios©).
 * **Open-source software distributed under the MIT License.**
 
 Note: The listed controls below go by the most recent version of the game/template.
