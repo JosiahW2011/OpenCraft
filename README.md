@@ -3,7 +3,7 @@ Open-Craft is an open-source, web-based voxel engine prototype built using JavaS
 
 The source code in this repository is available under the MIT License. Please note that this project was an independent fan-made recreation.
 To respect intellectual property rights, this repository does not host, distribute, or utilize any official textures, audio, or proprietary data
-developed by Mojang Studios© or Microsoft©.
+developed by Mojang Studios© or Microsoft© after 2014.
 
 ## 🛠️ Features & Evaluation
 * **WebGL Rendering:** Leverages Three.js for accelerated GPU rendering.
