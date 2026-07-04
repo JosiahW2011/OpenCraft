@@ -16,6 +16,7 @@ developed by Mojang Studios© or Microsoft©.
 * **Open-source software distributed under the MIT License.**
 
 Note: The listed controls below go by the most recent version of the game/template.
+
 ## 🎮 Controls
 * **W, A, S, D:** Player movement
 * **Place Block:** Right Click
@@ -23,3 +24,5 @@ Note: The listed controls below go by the most recent version of the game/templa
 * **Space bar:** Fly upwards
 * **Left/Right Shift keys:** Fly downwards
 * **1, 2, 3 and 4:** Block placement selection
+
+<img width="1366" height="593" alt="Screenshot_2026-07-04_01-12-31" src="https://github.com/user-attachments/assets/542a08a8-6a87-41ec-8ad3-c89c6d91faa5" />
