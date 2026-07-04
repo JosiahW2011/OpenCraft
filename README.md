@@ -8,7 +8,6 @@ developed by Mojang Studios© or Microsoft© after 2014.
 ## 🛠️ Features & Evaluation
 * **WebGL Rendering:** Leverages Three.js for accelerated GPU rendering.
 * **Optimized Voxel Architecture:** Provides single-mesh chunk buffering and hidden face culling to ensure high-performance on browser environments.
-* **Codebase:** Structurally optimized as a learning template for developers interested in procedural generation and voxel engine mechanics.
 
 ## 🤝 Credits and Acknowledgements
 * **ThreeJS Core, Module, and Plugins:** mr.doob (Ricardo Cabello) and Three.js contributors.
@@ -22,7 +21,14 @@ Note: The listed controls below go by the most recent version of the game/templa
 * **Place Block:** Right Click
 * **Remove Block:** Left Click
 * **Space bar:** Jump
-* **1, 2, 3 and 4:** Block placement selection
+* **1, 2, 3, 4 and 5:** Block placement selection
+* * **ESC:** Open up settings/pause menu.
+
+## Side Note
+Also, there was world loading, and settings added!
+Here's a few example world files to try out with vAlpha_03:
+- [OSC_WORLD.txt](https://github.com/user-attachments/files/29663633/OSC_WORLD.txt)
+- [OSC_WORLD(1).txt](https://github.com/user-attachments/files/29663629/OSC_WORLD.1.txt)
 
 Have fun, and enjoy! - JosiahW2011
 <img width="1366" height="593" alt="Screenshot_2026-07-04_01-12-31" src="https://github.com/user-attachments/assets/542a08a8-6a87-41ec-8ad3-c89c6d91faa5" />
