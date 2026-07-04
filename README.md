@@ -15,10 +15,11 @@ developed by Mojang Studios© or Microsoft©.
 * **Functionality, Gameplay Mechanics, and Textures:** Markus Persson (Also Mojang Studios©).
 * **Open-source software distributed under the MIT License.**
 
+Note: The listed controls below go by the most recent version of the game/template.
 ## 🎮 Controls
 * **W, A, S, D:** Player movement
 * **Place Block:** Right Click
 * **Remove Block:** Left Click
 * **Space bar:** Fly upwards
 * **Left/Right Shift keys:** Fly downwards
-* **1, 2, 3:** Block placement selection
+* **1, 2, 3 and 4:** Block placement selection
