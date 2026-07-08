@@ -39,6 +39,7 @@ Note: The listed controls below go by the most recent version of the game/templa
 If you're playing from just the file, and your browser is strict with CORS, there's a few options:
 * Make a server yourself (using Python or something else) and hosting it.
 * Visiting the Github for it (NOTE that it may not be always updated): https://josiahw2011.github.io/opencraft/
+
 Here's a few example world files to try loading in:
 - [OSC_WORLD.txt](https://github.com/user-attachments/files/29663633/OSC_WORLD.txt)
 - [OSC_WORLD(1).txt](https://github.com/user-attachments/files/29663629/OSC_WORLD.1.txt)
