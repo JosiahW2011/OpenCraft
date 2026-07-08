@@ -19,7 +19,14 @@ Note: The listed controls below go by the most recent version of the game/templa
 * **Place Block:** Right Click
 * **Remove Block:** Left Click
 * **Space bar:** Jump
-* **1, 2, 3, 4 and 5:** Block placement selection
+* **Alpha Keys:**
+* * **1**: Grass Block
+  * **2**: Dirt Block
+  * **3**: Cobblestone
+  * **4**: Oak Block
+  * **5**: Bricks
+  * **6**: Glass
+  * **7**: Lamp/Bulb 
 * * **ESC:** Open up settings/pause menu.
 
 ## 👥 Multiplayer - P2P Setup
