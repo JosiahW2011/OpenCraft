@@ -24,9 +24,14 @@ Note: The listed controls below go by the most recent version of the game/templa
 * **1, 2, 3, 4 and 5:** Block placement selection
 * * **ESC:** Open up settings/pause menu.
 
+## 👥 Multiplayer - P2P Setup
+* Step 1: Both players enter settings.
+* Step 2: Share the code located beside the label "Your World ID".
+* Step 3: Friend enters the code into the Room ID input area.
+* Step 4: They click "Connect to Friend".
+
 ## Side Note
-Also, there was world loading, and settings added!
-Here's a few example world files to try out with vAlpha_03:
+Here's a few example world files to try loading in:
 - [OSC_WORLD.txt](https://github.com/user-attachments/files/29663633/OSC_WORLD.txt)
 - [OSC_WORLD(1).txt](https://github.com/user-attachments/files/29663629/OSC_WORLD.1.txt)
 
